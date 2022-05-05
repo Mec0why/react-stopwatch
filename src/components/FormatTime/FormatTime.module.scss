@@ -1,0 +1,8 @@
+@import '../../styles/settings.scss';
+
+.time {
+    display: flex;
+    font-size: calc($base-size * 3);
+    margin: calc($base-size * 2) $base-size;
+    letter-spacing: calc($base-size / 3);
+}

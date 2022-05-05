@@ -1,0 +1,10 @@
+@import '../../styles/settings.scss';
+
+.container {
+    max-width: 1200px;
+    margin: 20px auto;
+    height: 90vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
